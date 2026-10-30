@@ -111,16 +111,6 @@ Script sẽ: đọc 9 tín hiệu quán tính (`body_acc`, `body_gyro`, `total_a
 
 Các subject id phải khớp danh sách `scenarios` của HAR trong `configs/data_model_configs.py`.
 
-Nhãn hoạt động:
-
-| ID | Hoạt động       |
-|----|-----------------|
-| 0  | Đi bộ           |
-| 1  | Lên cầu thang   |
-| 2  | Xuống cầu thang |
-| 3  | Ngồi            |
-| 4  | Đứng            |
-| 5  | Nằm             |
 
 ## 5. Huấn luyện
 
